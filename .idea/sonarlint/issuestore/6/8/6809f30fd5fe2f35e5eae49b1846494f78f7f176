@@ -1,0 +1,17 @@
+
+Y
+java:S1854">Remove this useless assignment to local variable "allResults".(ÈÁ„Åüÿÿÿÿ
+Q
+java:S1854"<Remove this useless assignment to local variable "category".(Ê¶²`
+M
+java:S1854"8Remove this useless assignment to local variable "name".(ÑéŒ
+>
+java:S1481")Remove this unused "name" local variable.(ÑéŒ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ì£ ½
+B
+java:S1481"-Remove this unused "category" local variable.(Ê¶²`
+Q	java:S125"<This block of commented-out lines of code should be removed.(ä›öƒ
+J
+java:S1481"/Remove this unused "allResults" local variable.(ÈÁ„Åüÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ï·„ç
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸ÖÓàùÿÿÿÿ

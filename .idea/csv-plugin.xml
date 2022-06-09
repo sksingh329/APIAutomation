@@ -3,6 +3,27 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="/.gitignore">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/HttpClient/pom.xml">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/HttpClient/src/main/java/basics/HttpGetRequestDemo.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/RestAssured/src/main/java/apps/dummy/tests/CourseTest.java">
           <value>
             <Attribute>
@@ -32,6 +53,20 @@
           </value>
         </entry>
         <entry key="/RestAssured/src/main/java/apps/library/api/LibraryAddBookAPI.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/RestAssured/src/main/java/apps/location/api/GetPlace.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/RestAssured/src/main/java/apps/location/pojo/Location.java">
           <value>
             <Attribute>
               <option name="separator" value=";" />
@@ -115,10 +150,31 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/RestAssured/src/test/java/jiraTest/JiraAPITest.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/RestAssured/src/test/java/library/LibraryAPITest.java">
           <value>
             <Attribute>
               <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/RestAssured/src/test/java/location/LocationTest.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/pom.xml">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
             </Attribute>
           </value>
         </entry>
